@@ -1,6 +1,7 @@
 const PI = 3.145
 console.log(PI);
 
+/**/
 /*
 var EMPCOUNT = 0;
 function Employee(fname, lname){
